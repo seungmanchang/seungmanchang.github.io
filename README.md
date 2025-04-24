@@ -6,5 +6,8 @@ dropbox.com/scl/fi/z84bs8lm7ksfinftfuctc/Chang_Seungman_Milestone_One_Pt.1.mp4?r
 
 dropbox.com/scl/fi/udsivldtikpd3pop8djbf/Chang_Seungman_Milestone_One_Pt.2.mp4?rlkey=8b7ze3n67j7xxabq5rq46cy18&st=43m5bdav&dl=0
 
+Artifact One:
+dropbox.com/scl/fi/3n6cr2bozu4261l5kvmje/first-artifact-cs499.zip?rlkey=c1swyazjkq5hs36yzqcmyy3q4&st=qrdbhf08&dl=0
+
 Artifact Two (camera.h only)
 dropbox.com/scl/fi/cu1l6i6otoxbffn691hnq/CS330-artifact2.zip?rlkey=cgn1nubseet2ujtz9ux5ys0o4&st=10m0cwwb&dl=0
